@@ -1,0 +1,30 @@
+<div class="banner">
+            <div class="mask"></div>
+            <div class="wrap3">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href=""><img src="./images/logo.png" alt=""></a>
+                        </div>
+                        <div class="col-md-9">
+                            <ul>
+                                <li><a href="">Home</a></li>
+                                <li><a href="">About Us</a></li>
+                                <li><a href="">Demos</a></li>
+                                <li><a href="">Properties</a></li>
+                                <li><a href="">Agent</a></li>
+                                <li><a href="">Blogs</a></li>
+                                <li><a href="">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="wrap4">
+                <div class="container">
+                    <h1>India's only real estate platform</h1>
+                    <p class="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, repellat nulla reiciendis nobis natus doloribus similique sequi.</p>
+                </div>
+            </div>
+           </div>
